@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../Addidas Product Card"
+		},
+		{
+			"path": "../konga"
+		},
+		{
+			"path": "../Jumia"
+		},
+		{
+			"path": "../positioning"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../flex"
+		},
+		{
+			"path": "../CLONE PAGE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CLONE PAGE",
+		"liveServer.settings.port": 5501
+	}
+}
